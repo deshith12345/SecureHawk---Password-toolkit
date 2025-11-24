@@ -1,4 +1,4 @@
-# 🦅 SecureHawk - Password Security Toolkit
+#  SecureHawk - Password Security Toolkit
 
 **A comprehensive web-based tool for password security education and analysis**
 
