@@ -87,7 +87,7 @@ Built-in security education:
 
 ### Quick Start (No Installation Required)
 
-Live Dema : securehawk.vercel.app
+Live Demo : securehawk.vercel.app
 
 ---
 
