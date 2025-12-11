@@ -6,7 +6,7 @@
 
 SecureHawk is an interactive password security toolkit designed to educate users about password security best practices. This project demonstrates practical cybersecurity concepts including real-time password strength analysis, breach checking using the Have I Been Pwned API, and cryptographically secure password generation.
 
-**Created as a portfolio project by a 2nd year Cybersecurity student at SLIIT (Sri Lanka Institute of Information Technology)**
+
 
 ### Project Purpose
 
