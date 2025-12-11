@@ -87,7 +87,7 @@ Built-in security education:
 
 ### Quick Start (No Installation Required)
 
-**✅ [View Live Demo](https://securehawk.wuaze.com)**
+**✅ [View Live Demo](securehawk.vercel.app)**
 
 ---
 
